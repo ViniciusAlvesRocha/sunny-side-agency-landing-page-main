@@ -1,0 +1,8 @@
+.row-bottom {
+  display: flex;
+  
+}
+
+.row-bottom > img {
+  width: 25%;
+}

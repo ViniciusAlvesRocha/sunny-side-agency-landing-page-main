@@ -1,0 +1,58 @@
+.testimonials {
+	background: rgb(255, 255, 255);
+  padding-bottom: 150px;
+}
+
+.h2-client-testimonials {
+	text-transform: uppercase;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 100px;
+	font-family: 'Fraunces';
+  color: rgb(0, 0, 0, .5
+  );
+  letter-spacing: 4px;
+  margin-bottom: 65px;
+}
+
+.clients {
+  display: flex;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.client-photo {
+	border-radius: 50%;
+  width: 15%;
+}
+
+.client-testemonial {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.client-photo {
+  margin-bottom: 35px;
+}
+
+.p-testemonial {
+  margin-bottom: 35px;
+  line-height: 30px;
+  color: rgb(0, 0, 0, .5);
+}
+
+.p-name-client {
+  font-weight: 900;
+  font-family: 'Fraunces';
+  margin-bottom: 10px;
+}
+
+.p-function-client {
+  font-family: 'Barlow';
+  font-size: 12px;
+  color: rgb(0, 0, 0, .5)
+}
+
